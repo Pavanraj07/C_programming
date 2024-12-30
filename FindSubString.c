@@ -4,7 +4,7 @@
 int main()
 {
     char str1[100], str2[100];
-    int i, j;
+    int i, j,n;
     int res[10]={0};
 
     printf("Enter a string: ");
