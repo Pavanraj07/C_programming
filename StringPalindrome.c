@@ -18,7 +18,7 @@ int main() {
             flag = 1;
     }
 
-    if( flag ? printf("It is a palindrome") : printf("It is not a palindrome"));
+    if( flag ? printf("It is a palindrome") : printf("It is not a palindrome"))
 
     return 0;
 }
