@@ -4,7 +4,7 @@ int main() {
 
     int num, rem, small = 10;
 
-    printf("Enter a number:");
+    printf("Enter numbers:");
     scanf("%d",&num);
 
     while ( num > 0 ){
