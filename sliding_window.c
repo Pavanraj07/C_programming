@@ -27,7 +27,7 @@ void SubArray(int arr[], int n, int k)
              max_sum = curr_sum;
      }
 
-     printf("%d",max_sum);
+     printf("sum=%d",max_sum);
  }
 
 int main()
