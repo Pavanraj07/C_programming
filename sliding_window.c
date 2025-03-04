@@ -13,10 +13,7 @@ void printArray(int arr[], int n)
     for (int i = 0; i < n; i++)
         printf(" %d ", arr[i]);
 }
-
-
-
- void SubArray(int arr[], int n, int k)
+void SubArray(int arr[], int n, int k)
  {
      int i, j, curr_sum, max_sum;
      curr_sum = 0;
