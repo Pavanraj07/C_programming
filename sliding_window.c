@@ -32,7 +32,7 @@ void SubArray(int arr[], int n, int k)
 
 int main()
 {
-    int n, k, arr[10], sum;
+    int n, k, arr[10];
 
     printf("Enter the size of the array:");
     scanf("%d", &n);
